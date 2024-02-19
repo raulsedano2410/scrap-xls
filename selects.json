@@ -1,0 +1,607 @@
+{
+  "seasons": {
+    "0": "All",
+    "1": "Autumn",
+    "2": "Kharif",
+    "3": "Rabi",
+    "4": "Summer",
+    "5": "Winter",
+    "6": "Whole Year",
+    "All": "0",
+    "Autumn": "1",
+    "Kharif": "2",
+    "Rabi": "3",
+    "Summer": "4",
+    "Winter": "5",
+    "Whole Year": "6"
+  },
+  "years": {
+    "1997": "1",
+    "1998": "2",
+    "1999": "3",
+    "2000": "4",
+    "2001": "5",
+    "2002": "6",
+    "2003": "7",
+    "2004": "8",
+    "2005": "9",
+    "2006": "10",
+    "2007": "11",
+    "2008": "12",
+    "2009": "13",
+    "2010": "14",
+    "2011": "15",
+    "2012": "16",
+    "2013": "17",
+    "2014": "18",
+    "2015": "19",
+    "2016": "20",
+    "2017": "21",
+    "2018": "22",
+    "2019": "23",
+    "2020": "24",
+    "2021": "25",
+    "2022": "26",
+    "2023": "27"
+  },
+  "states": {
+    "1": {
+      "name": "Andaman and Nicobar Islands",
+      "id_district": "TreeView1n1CheckBox",
+      "id_state": "TreeView1n1CheckBox"
+    },
+    "2": {
+      "name": "Andhra Pradesh",
+      "id_district": "TreeView1n2CheckBox",
+      "id_state": "TreeView1n2CheckBox"
+    },
+    "3": {
+      "name": "Arunachal Pradesh",
+      "id_district": "TreeView1n3CheckBox",
+      "id_state": "TreeView1n3CheckBox"
+    },
+    "4": {
+      "name": "Assam",
+      "id_district": "TreeView1n4CheckBox",
+      "id_state": "TreeView1n4CheckBox"
+    },
+    "5": {
+      "name": "Bihar",
+      "id_district": "TreeView1n5CheckBox",
+      "id_state": "TreeView1n5CheckBox"
+    },
+    "6": {
+      "name": "Chandigarh",
+      "id_district": "TreeView1n6CheckBox",
+      "id_state": "TreeView1n6CheckBox"
+    },
+    "7": {
+      "name": "Chhattisgarh",
+      "id_district": "TreeView1n7CheckBox",
+      "id_state": "TreeView1n7CheckBox"
+    },
+    "8": {
+      "name": "Dadra and Nagar Haveli",
+      "id_district": "TreeView1n8CheckBox",
+      "id_state": "TreeView1n8CheckBox"
+    },
+    "9": {
+      "name": "Daman and Diu",
+      "id_district": "TreeView1n9CheckBox",
+      "id_state": "TreeView1n9CheckBox"
+    },
+    "10": {
+      "name": "Delhi",
+      "id_district": "TreeView1n10CheckBox",
+      "id_state": "TreeView1n10CheckBox"
+    },
+    "11": {
+      "name": "Goa",
+      "id_district": "TreeView1n11CheckBox",
+      "id_state": "TreeView1n11CheckBox"
+    },
+    "12": {
+      "name": "Gujarat",
+      "id_district": "TreeView1n12CheckBox",
+      "id_state": "TreeView1n12CheckBox"
+    },
+    "13": {
+      "name": "Haryana",
+      "id_district": "TreeView1n13CheckBox",
+      "id_state": "TreeView1n13CheckBox"
+    },
+    "14": {
+      "name": "Himachal Pradesh",
+      "id_district": "TreeView1n14CheckBox",
+      "id_state": "TreeView1n14CheckBox"
+    },
+    "15": {
+      "name": "Jammu and Kashmir",
+      "id_district": "TreeView1n15CheckBox",
+      "id_state": "TreeView1n15CheckBox"
+    },
+    "16": {
+      "name": "Jharkhand",
+      "id_district": "TreeView1n16CheckBox",
+      "id_state": "TreeView1n16CheckBox"
+    },
+    "17": {
+      "name": "Karnataka",
+      "id_district": "TreeView1n17CheckBox",
+      "id_state": "TreeView1n17CheckBox"
+    },
+    "18": {
+      "name": "Kerala",
+      "id_district": "TreeView1n18CheckBox",
+      "id_state": "TreeView1n18CheckBox"
+    },
+    "19": {
+      "name": "Laddakh",
+      "id_district": "TreeView1n19CheckBox",
+      "id_state": "TreeView1n19CheckBox"
+    },
+    "20": {
+      "name": "Lakshadweep",
+      "id_district": "TreeView1n20CheckBox",
+      "id_state": "TreeView1n20CheckBox"
+    },
+    "21": {
+      "name": "Madhya Pradesh",
+      "id_district": "TreeView1n21CheckBox",
+      "id_state": "TreeView1n21CheckBox"
+    },
+    "22": {
+      "name": "Maharashtra",
+      "id_district": "TreeView1n22CheckBox",
+      "id_state": "TreeView1n22CheckBox"
+    },
+    "23": {
+      "name": "Manipur",
+      "id_district": "TreeView1n23CheckBox",
+      "id_state": "TreeView1n23CheckBox"
+    },
+    "24": {
+      "name": "Meghalaya",
+      "id_district": "TreeView1n24CheckBox",
+      "id_state": "TreeView1n24CheckBox"
+    },
+    "25": {
+      "name": "Mizoram",
+      "id_district": "TreeView1n25CheckBox",
+      "id_state": "TreeView1n25CheckBox"
+    },
+    "26": {
+      "name": "Nagaland",
+      "id_district": "TreeView1n26CheckBox",
+      "id_state": "TreeView1n26CheckBox"
+    },
+    "27": {
+      "name": "Odisha",
+      "id_district": "TreeView1n27CheckBox",
+      "id_state": "TreeView1n27CheckBox"
+    },
+    "28": {
+      "name": "Puducherry",
+      "id_district": "TreeView1n28CheckBox",
+      "id_state": "TreeView1n28CheckBox"
+    },
+    "29": {
+      "name": "Punjab",
+      "id_district": "TreeView1n29CheckBox",
+      "id_state": "TreeView1n29CheckBox"
+    },
+    "30": {
+      "name": "Rajasthan",
+      "id_district": "TreeView1n30CheckBox",
+      "id_state": "TreeView1n30CheckBox"
+    },
+    "31": {
+      "name": "Sikkim",
+      "id_district": "TreeView1n31CheckBox",
+      "id_state": "TreeView1n31CheckBox"
+    },
+    "32": {
+      "name": "Tamil Nadu",
+      "id_district": "TreeView1n32CheckBox",
+      "id_state": "TreeView1n32CheckBox"
+    },
+    "33": {
+      "name": "Telangana",
+      "id_district": "TreeView1n33CheckBox",
+      "id_state": "TreeView1n33CheckBox"
+    },
+    "34": {
+      "name": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU",
+      "id_district": "TreeView1n34CheckBox",
+      "id_state": "TreeView1n34CheckBox"
+    },
+    "35": {
+      "name": "Tripura",
+      "id_district": "TreeView1n35CheckBox",
+      "id_state": "TreeView1n35CheckBox"
+    },
+    "36": {
+      "name": "Uttar Pradesh",
+      "id_district": "TreeView1n36CheckBox",
+      "id_state": "TreeView1n36CheckBox"
+    },
+    "37": {
+      "name": "Uttarakhand",
+      "id_district": "TreeView1n37CheckBox",
+      "id_state": "TreeView1n37CheckBox"
+    },
+    "38": {
+      "name": "West Bengal",
+      "id_district": "TreeView1n38CheckBox",
+      "id_state": "TreeView1n38CheckBox"
+    }
+  },
+  "crops": {
+    "1": {
+      "name": "Arecanut",
+      "id": "TreeView2n1CheckBox"
+    },
+    "2": {
+      "name": "Arhar/Tur",
+      "id": "TreeView2n2CheckBox"
+    },
+    "3": {
+      "name": "Bajra",
+      "id": "TreeView2n3CheckBox"
+    },
+    "4": {
+      "name": "Banana",
+      "id": "TreeView2n4CheckBox"
+    },
+    "5": {
+      "name": "Barley",
+      "id": "TreeView2n5CheckBox"
+    },
+    "6": {
+      "name": "Black pepper",
+      "id": "TreeView2n6CheckBox"
+    },
+    "7": {
+      "name": "Cardamom",
+      "id": "TreeView2n7CheckBox"
+    },
+    "8": {
+      "name": "Cashewnut",
+      "id": "TreeView2n8CheckBox"
+    },
+    "9": {
+      "name": "Castor seed",
+      "id": "TreeView2n9CheckBox"
+    },
+    "10": {
+      "name": "Coconut",
+      "id": "TreeView2n10CheckBox"
+    },
+    "11": {
+      "name": "Coriander",
+      "id": "TreeView2n11CheckBox"
+    },
+    "12": {
+      "name": "Cotton(lint)",
+      "id": "TreeView2n12CheckBox"
+    },
+    "13": {
+      "name": "Cowpea(Lobia)",
+      "id": "TreeView2n13CheckBox"
+    },
+    "14": {
+      "name": "Dry chillies",
+      "id": "TreeView2n14CheckBox"
+    },
+    "15": {
+      "name": "Garlic",
+      "id": "TreeView2n15CheckBox"
+    },
+    "16": {
+      "name": "Ginger",
+      "id": "TreeView2n16CheckBox"
+    },
+    "17": {
+      "name": "Gram",
+      "id": "TreeView2n17CheckBox"
+    },
+    "18": {
+      "name": "Groundnut",
+      "id": "TreeView2n18CheckBox"
+    },
+    "19": {
+      "name": "Guar seed",
+      "id": "TreeView2n19CheckBox"
+    },
+    "20": {
+      "name": "Horse-gram",
+      "id": "TreeView2n20CheckBox"
+    },
+    "21": {
+      "name": "Jowar",
+      "id": "TreeView2n21CheckBox"
+    },
+    "22": {
+      "name": "Jute",
+      "id": "TreeView2n22CheckBox"
+    },
+    "23": {
+      "name": "Khesari",
+      "id": "TreeView2n23CheckBox"
+    },
+    "24": {
+      "name": "Linseed",
+      "id": "TreeView2n24CheckBox"
+    },
+    "25": {
+      "name": "Maize",
+      "id": "TreeView2n25CheckBox"
+    },
+    "26": {
+      "name": "Masoor",
+      "id": "TreeView2n26CheckBox"
+    },
+    "27": {
+      "name": "Mesta",
+      "id": "TreeView2n27CheckBox"
+    },
+    "28": {
+      "name": "Moong(Green Gram)",
+      "id": "TreeView2n28CheckBox"
+    },
+    "29": {
+      "name": "Moth",
+      "id": "TreeView2n29CheckBox"
+    },
+    "30": {
+      "name": "Niger seed",
+      "id": "TreeView2n30CheckBox"
+    },
+    "31": {
+      "name": "Oilseeds total",
+      "id": "TreeView2n31CheckBox"
+    },
+    "32": {
+      "name": "Onion",
+      "id": "TreeView2n32CheckBox"
+    },
+    "33": {
+      "name": "Other Rabi pulses",
+      "id": "TreeView2n33CheckBox"
+    },
+    "34": {
+      "name": "Other Cereals",
+      "id": "TreeView2n34CheckBox"
+    },
+    "35": {
+      "name": "Other Kharif pulses",
+      "id": "TreeView2n35CheckBox"
+    },
+    "36": {
+      "name": "other oilseeds",
+      "id": "TreeView2n36CheckBox"
+    },
+    "37": {
+      "name": "Other Summer Pulses",
+      "id": "TreeView2n37CheckBox"
+    },
+    "38": {
+      "name": "Peas & beans (Pulses)",
+      "id": "TreeView2n38CheckBox"
+    },
+    "39": {
+      "name": "Potato",
+      "id": "TreeView2n39CheckBox"
+    },
+    "40": {
+      "name": "Ragi",
+      "id": "TreeView2n40CheckBox"
+    },
+    "41": {
+      "name": "Rapeseed &Mustard",
+      "id": "TreeView2n41CheckBox"
+    },
+    "42": {
+      "name": "Rice",
+      "id": "TreeView2n42CheckBox"
+    },
+    "43": {
+      "name": "Safflower",
+      "id": "TreeView2n43CheckBox"
+    },
+    "44": {
+      "name": "Sannhamp",
+      "id": "TreeView2n44CheckBox"
+    },
+    "45": {
+      "name": "Sesamum",
+      "id": "TreeView2n45CheckBox"
+    },
+    "46": {
+      "name": "Small millets",
+      "id": "TreeView2n46CheckBox"
+    },
+    "47": {
+      "name": "Soyabean",
+      "id": "TreeView2n47CheckBox"
+    },
+    "48": {
+      "name": "Sugarcane",
+      "id": "TreeView2n48CheckBox"
+    },
+    "49": {
+      "name": "Sunflower",
+      "id": "TreeView2n49CheckBox"
+    },
+    "50": {
+      "name": "Sweet potato",
+      "id": "TreeView2n50CheckBox"
+    },
+    "51": {
+      "name": "Tapioca",
+      "id": "TreeView2n51CheckBox"
+    },
+    "52": {
+      "name": "Tobacco",
+      "id": "TreeView2n52CheckBox"
+    },
+    "53": {
+      "name": "Turmeric",
+      "id": "TreeView2n53CheckBox"
+    },
+    "54": {
+      "name": "Urad",
+      "id": "TreeView2n54CheckBox"
+    },
+    "55": {
+      "name": "Wheat",
+      "id": "TreeView2n55CheckBox"
+    }
+  },
+  "state_dist_on": {
+    "1": {
+      "state_id": "TreeView1n1CheckBox",
+      "name": "Andaman and Nicobar Islands"
+    },
+    "2": {
+      "state_id": "TreeView1n5CheckBox",
+      "name": "Andhra Pradesh"
+    },
+    "3": {
+      "state_id": "TreeView1n33CheckBox",
+      "name": "Arunachal Pradesh"
+    },
+    "4": {
+      "state_id": "TreeView1n59CheckBox",
+      "name": "Assam"
+    },
+    "5": {
+      "state_id": "TreeView1n95CheckBox",
+      "name": "Bihar"
+    },
+    "6": {
+      "state_id": "TreeView1n134CheckBox",
+      "name": "Chandigarh"
+    },
+    "7": {
+      "state_id": "TreeView1n136CheckBox",
+      "name": "Chhattisgarh"
+    },
+    "10": {
+      "state_id": "TreeView1n167CheckBox",
+      "name": "Delhi"
+    },
+    "11": {
+      "state_id": "TreeView1n180CheckBox",
+      "name": "Goa"
+    },
+    "12": {
+      "state_id": "TreeView1n183CheckBox",
+      "name": "Gujarat"
+    },
+    "13": {
+      "state_id": "TreeView1n217CheckBox",
+      "name": "Haryana"
+    },
+    "14": {
+      "state_id": "TreeView1n241CheckBox",
+      "name": "Himachal Pradesh"
+    },
+    "15": {
+      "state_id": "TreeView1n254CheckBox",
+      "name": "Jammu and Kashmir"
+    },
+    "16": {
+      "state_id": "TreeView1n275CheckBox",
+      "name": "Jharkhand"
+    },
+    "17": {
+      "state_id": "TreeView1n300CheckBox",
+      "name": "Karnataka"
+    },
+    "18": {
+      "state_id": "TreeView1n332CheckBox",
+      "name": "Kerala"
+    },
+    "19": {
+      "state_id": "TreeView1n347CheckBox",
+      "name": "Laddakh"
+    },
+    "20": {
+      "state_id": "TreeView1n350CheckBox",
+      "name": "Lakshadweep"
+    },
+    "21": {
+      "state_id": "TreeView1n352CheckBox",
+      "name": "Madhya Pradesh"
+    },
+    "22": {
+      "state_id": "TreeView1n406CheckBox",
+      "name": "Maharashtra"
+    },
+    "23": {
+      "state_id": "TreeView1n443CheckBox",
+      "name": "Manipur"
+    },
+    "24": {
+      "state_id": "TreeView1n461CheckBox",
+      "name": "Meghalaya"
+    },
+    "25": {
+      "state_id": "TreeView1n474CheckBox",
+      "name": "Mizoram"
+    },
+    "26": {
+      "state_id": "TreeView1n486CheckBox",
+      "name": "Nagaland"
+    },
+    "27": {
+      "state_id": "TreeView1n500CheckBox",
+      "name": "Odisha"
+    },
+    "28": {
+      "state_id": "TreeView1n531CheckBox",
+      "name": "Puducherry"
+    },
+    "29": {
+      "state_id": "TreeView1n536CheckBox",
+      "name": "Punjab"
+    },
+    "30": {
+      "state_id": "TreeView1n561CheckBox",
+      "name": "Rajasthan"
+    },
+    "31": {
+      "state_id": "TreeView1n595CheckBox",
+      "name": "Sikkim"
+    },
+    "32": {
+      "state_id": "TreeView1n606CheckBox",
+      "name": "Tamil Nadu"
+    },
+    "33": {
+      "state_id": "TreeView1n645CheckBox",
+      "name": "Telangana"
+    },
+    "34": {
+      "state_id": "TreeView1n679CheckBox",
+      "name": "THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU"
+    },
+    "35": {
+      "state_id": "TreeView1n683CheckBox",
+      "name": "Tripura"
+    },
+    "36": {
+      "state_id": "TreeView1n692CheckBox",
+      "name": "Uttar Pradesh"
+    },
+    "37": {
+      "state_id": "TreeView1n770CheckBox",
+      "name": "Uttarakhand"
+    },
+    "38": {
+      "state_id": "TreeView1n784CheckBox",
+      "name": "West Bengal"
+    }
+  }
+}
